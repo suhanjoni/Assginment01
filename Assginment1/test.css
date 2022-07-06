@@ -1,0 +1,169 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+
+}
+
+h1 {
+    font-size: 50px;
+    color: aliceblue;
+}
+
+p {
+    color: orangered;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+
+}
+
+.bg {
+    background-image: url(donate-today-main/suhan1.jpg);
+    background-repeat: no-repeat;
+}
+
+.bg2 {
+    width: 100%;
+    height: 500px;
+}
+
+.flexible-container2 {
+    text-align: center;
+    padding-top: 150px;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.go-link {
+    text-decoration: none;
+    background-color: black;
+    padding: 10px 20px 10px;
+    border-radius: 50px;
+    color: orange;
+    font-weight: 700;
+}
+
+h2 {
+    color: black;
+    font-size: 49px;
+    font-weight: 900
+}
+
+.bg5 {
+    text-align: center;
+}
+
+.bg6 {
+    width: 10%;
+    margin-left: 8%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px gray;
+    text-align: center;
+    font-size: 30px;
+}
+
+#box-1 {
+    border: 5px solid yellowgreen;
+}
+
+.flexible-container3 {
+    text-align: center;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.flexible-container4 {
+    text-align: center;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+h4 {
+    color: black;
+    font-size: 20px;
+    font-weight: 900
+}
+
+.flexible-container5 {
+    display: flex;
+}
+
+.bg7 {
+    width: 20%;
+    margin-left: 100px;
+    padding: 10px;
+    font-size: 30px;
+    background-color: turquoise;
+    margin-bottom: 100px;
+    margin-right: 60px;
+}
+
+.bg8 {
+    background-color: lightblue;
+}
+
+.bg9 {
+    background-color: cyan;
+}
+
+#bg10 img {
+    width: 100%;
+}
+
+#bg10 {
+    width: 100%;
+    padding: 20px;
+    margin-left: 5px;
+}
+
+
+.flexible-container6 {
+    display: flex;
+    margin-bottom: 150px;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+.bg12 {
+    width: 30%;
+    margin-left: 30%;
+    padding: 10px 10px 10px;
+    border-radius: 10px;
+    text-align: left;
+    font-size: 15px;
+    margin-bottom: 150px;
+    background-color: #c0c0c0;
+}
+
+.bg13 {
+    width: 10%;
+    padding: 10px 20px 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-bottom: 150px;
+    text-decoration: none;
+    background-color: black;
+    border: 3px solid red;
+
+}
+
+.bg14 {
+    text-align: center;
+    background-color: black;
+    width: 100%;
+    margin: 0%;
+    border: 0ch;
+    padding: 0%;
+}
+
+.bg15 {
+    color: blueviolet;
+    font-size: 40px;
+
+}
+
+footer {
+    font-family: 'Lobster', cursive;
+}
